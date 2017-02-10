@@ -1,4 +1,5 @@
 # Java skeleton for duck hunt dd2380
+# test string
 
 # Compile
 javac *.java
